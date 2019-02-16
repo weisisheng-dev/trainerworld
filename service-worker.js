@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/weisisheng/trainerworld/precache-manifest.088d553c1ab781a10d6a854071a788ca.js"
+  "/weisisheng/trainerworld/precache-manifest.2218ff8e00c0530401b7c1ef0217e00e.js"
 );
 
 workbox.clientsClaim();
