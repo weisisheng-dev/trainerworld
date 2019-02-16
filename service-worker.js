@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/weisisheng/trainerworld/precache-manifest.2218ff8e00c0530401b7c1ef0217e00e.js"
+  "/trainerworld/precache-manifest.f8511fb5d2d6155267c7be1ee02cc3f0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/weisisheng/trainerworld/index.html", {
+workbox.routing.registerNavigationRoute("/trainerworld/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
