@@ -23,6 +23,7 @@
     "build-js": "react-scripts build",
     "postbuild": "mv ./build/favicons/* ./build/ && rm -r ./build/favicons",
     "test": "react-scripts test --env=jsdom",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
