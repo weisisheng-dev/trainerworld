@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/trainerworld/precache-manifest.f8511fb5d2d6155267c7be1ee02cc3f0.js"
+  "/trainerworld/precache-manifest.f99df5d16d9aa3548ccf7f1a684d3ff8.js"
 );
 
 workbox.clientsClaim();
