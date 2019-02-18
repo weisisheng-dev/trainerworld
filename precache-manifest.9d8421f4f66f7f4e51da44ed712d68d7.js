@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/trainerworld/static/css/2.e0ced9cd.chunk.css"
   },
   {
-    "revision": "ee879a56430e97f9db64a5b9b6fd1b6d",
+    "revision": "5c2378314e6cf7bcc46f05b3a97ecdfc",
     "url": "/trainerworld/index.html"
   }
 ];
