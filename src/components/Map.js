@@ -68,7 +68,8 @@ class SimpleMap extends Component {
       <div style={{ height: '100vh', width: '100%' }}>
         <GoogleMapReact
           //I could not figure out a safe place to store this key, since there's no server
-          bootstrapURLKeys={{ key: 'AIzaSyAc9rLvEJvIGk_UZ6af_kiC5_xenNVLaMU'}}
+          // removed third party key -- VCF 20190218
+          bootstrapURLKeys={{ key: 'putnewkeyhere'}}
           defaultCenter={this.props.center}
           defaultZoom={this.props.zoom}
         >
